@@ -1,0 +1,54 @@
+.all {
+	background-color: #e7e3e8;
+	height: 700px
+}
+h1 {
+	font-family: arial;
+	margin-left: 100px;
+	padding-top: 35px;
+	font-size: 40px
+}
+.h3p {
+	font-family: arial;
+	background-color: white;
+	width: 420px;
+	height: 160px
+}
+.h2p {
+	font-family: arial;
+	background-color: white;
+	width: 420px;
+	height: 160px;
+}
+.h1p {
+	font-family: arial;
+	background-color: white;
+	width: 420px;
+	height: 160px
+}
+.display {
+	display: flex;
+	margin-left: 50px;
+	padding-top: 15px;
+}
+.games {
+	margin-left: 40px;
+	display: flex;
+	padding-top: 10px
+}
+.games2 {
+	margin-left: 40px;
+	display: flex;
+	padding-top: 10px
+}
+.games3 {
+	margin-left: 40px;
+	display: flex;
+	padding-top: 12px
+}
+h2 {
+	margin-left: 30px
+}
+p {
+	margin-left: 30px
+}
